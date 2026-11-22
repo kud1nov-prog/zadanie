@@ -1,8 +1,5 @@
 hello world
-<<<<<<< HEAD
 privet
-=======
 print
->>>>>>> branch2
 add
 
